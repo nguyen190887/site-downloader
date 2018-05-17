@@ -1,0 +1,11 @@
+{
+  "name": "site-downloader",
+  "version": "1.0.0",
+  "description": "A NodeJS application to download website's content",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  },
+  "author": "Tri Nguyen - GitHub: nguyen190887",
+  "license": "ISC"
+}

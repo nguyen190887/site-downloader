@@ -1,0 +1,13 @@
+{
+    "headless": false,
+    "usernameSelector": ".username-selector",
+    "passwordSelector": ".password-selector",
+    "loginButtonSelector": ".login-selector",
+    "username": "<username>",
+    "password": "<hash64 string>",
+    "resourceHost": "http://example.com/",
+    "loginUrl": "http://example.com/login",
+    "nextPageSelector": ".next-selector",
+    "downloadLocation": "downloaded",
+    "clickDelay": 3000
+}
