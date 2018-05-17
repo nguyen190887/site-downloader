@@ -1,5 +1,5 @@
 {
-    "headless": false,
+    "headless": true,
     "usernameSelector": ".username-selector",
     "passwordSelector": ".password-selector",
     "loginButtonSelector": ".login-selector",
